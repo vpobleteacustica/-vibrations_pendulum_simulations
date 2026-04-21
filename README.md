@@ -1,10 +1,10 @@
-# 🎓 Vibraciones — Simulación Numérica e Interpretación Física
+# Vibraciones — Simulación Numérica e Interpretación Física
 
-## 📌 Contexto del curso
+## Contexto del curso
 
 Este repositorio forma parte del curso:
 
-**ACUS125 — Vibraciones**
+**ACUS125 — Aislamiento y Análisis de Vibraciones**
 
 Su propósito es apoyar el aprendizaje mediante:
 
@@ -14,7 +14,7 @@ Su propósito es apoyar el aprendizaje mediante:
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Comprender el comportamiento de sistemas vibratorios combinando:
 
@@ -24,28 +24,24 @@ Comprender el comportamiento de sistemas vibratorios combinando:
 
 ---
 
-## 📚 Contenidos
+## Contenidos
 
 Este repositorio incluye dos ejemplos fundamentales basados en Meirovitch:
 
 ---
 
-### 🟢 Example 1.5 — Péndulo compuesto
+### Example 1.5 — Péndulo compuesto
 
 - Sistema de **1 grado de libertad (1 DOF)**  
 - Modelo no lineal:
 
-\[
-\ddot{\theta} = -\frac{3g}{2L}\sin(\theta)
-\]
+$\ddot{\theta} = -\frac{3g}{2L}\sin(\theta)$
 
 - Aproximación lineal:
 
-\[
-\ddot{\theta} = -\frac{3g}{2L}\theta
-\]
+$\ddot{\theta} = -\frac{3g}{2L}\theta$
 
-🔍 Conceptos clave:
+Conceptos clave:
 
 - diferencia entre modelo lineal y no lineal  
 - validez de aproximaciones  
@@ -53,16 +49,16 @@ Este repositorio incluye dos ejemplos fundamentales basados en Meirovitch:
 
 ---
 
-### 🔴 Example 1.6 — Sistema acoplado
+### Example 1.6 — Sistema acoplado
 
 - Sistema de **2 grados de libertad (2 DOF)**  
 
 Coordenadas:
 
-- \( \theta_1 \): ángulo de la cuerda  
-- \( \theta_2 \): ángulo de la barra  
+- $\theta_1 $: ángulo de la cuerda  
+- $\theta_2 $: ángulo de la barra  
 
-🔍 Conceptos clave:
+Conceptos clave:
 
 - acoplamiento dinámico  
 - interacción entre variables  
@@ -70,7 +66,7 @@ Coordenadas:
 
 ---
 
-## 🗂️ Estructura del proyecto
+## Estructura del proyecto
 
 ```text
 .
@@ -92,7 +88,7 @@ Coordenadas:
 
 ---
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 Desde la carpeta raíz del proyecto:
 
@@ -114,7 +110,7 @@ python scripts/simulation_example_1_6_animation.py
 
 ---
 
-## 🧠 Enfoque de aprendizaje
+## Enfoque de aprendizaje
 
 Este repositorio está diseñado para la **exploración activa**.
 
@@ -127,14 +123,14 @@ Se recomienda:
 
 ---
 
-## 💡 Idea clave
+## Idea clave
 
 > Comprender vibraciones no es solo resolver ecuaciones,  
 > sino interpretar cómo evolucionan los sistemas en el tiempo.
 
 ---
 
-## 👨‍🏫 Nota del profesor
+## Nota del profesor
 
 Se espera que los estudiantes:
 
@@ -144,7 +140,7 @@ Se espera que los estudiantes:
 
 ---
 
-## 🔬 Experimentos sugeridos
+## Experimentos sugeridos
 
 Prueba modificar:
 
@@ -168,7 +164,7 @@ Observa:
 
 ---
 
-## 📊 Material complementario
+## Material complementario
 
 Revisar:
 
@@ -177,6 +173,6 @@ Revisar:
 
 ---
 
-## 🚀 Mensaje final
+## Mensaje final
 
-> La física se comprende mejor cuando ecuaciones, simulaciones e intuición trabajan juntas.
+> La vibración se comprende mejor cuando ecuaciones, simulaciones e intuición trabajan juntas.
