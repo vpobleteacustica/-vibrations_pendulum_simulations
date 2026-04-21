@@ -175,4 +175,4 @@ Revisar:
 
 ## Mensaje final
 
-> La vibración se comprende mejor cuando ecuaciones, simulaciones e intuición trabajan juntas.
+> El análisis de vibraciones se comprende mejor cuando ecuaciones, simulaciones e intuición trabajan juntas.
